@@ -33,7 +33,7 @@
   "types": "./index.d.ts",
   "peerDependencies": {
     "@types/jquery": "^3.2.12",
-    "bootstrap-daterangepicker": ">=2.1.25",
+    "bootstrap-daterangepicker": "github:arsunda/bootstrap-daterangepicker#37cd9c85621b197a3e7f5864aa5e7a366926b115",
     "jquery": "^3.2.1",
     "moment": "^2.19.1"
   },
